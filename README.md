@@ -62,7 +62,7 @@ Create awesome Spotify playlists effortlessly! This Python application lets you 
 1. Run the application:
 
    ```bash
-   python controller.py
+   python app.py
    ```
 
 2. Follow these steps in the GUI:
