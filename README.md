@@ -84,19 +84,7 @@ Create awesome Spotify playlists effortlessly! This Python application lets you 
 
 ## 💻 Screenshots
 
-🎨 _Add screenshots of your application's GUI here!_
+![image](https://github.com/user-attachments/assets/a28b7e33-38e7-4be6-ae26-e84003ca9a75)
+
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use and modify it as you wish! 😄
-
-```bash
-
-### Updates:
-- The **"How to Run"** section now references `controller.py` instead of `app.py` since your main entry point is the controller file.
-- Clarified the use of the MVC structure in the **"Features"** section. 
-- Updated the installation steps to include optional virtual environment setup and dependency installation.
-
-Let me know if you need more adjustments!
