@@ -6,7 +6,7 @@ Create awesome Spotify playlists effortlessly! This Python application lets you 
 
 ## ✨ Features
 
-1. 🎶 **Playlist Generation**: Build a playlist of up to 100 tracks from 10 Spotify track URLs.
+1. 🎶 **Playlist Generation**: Build a playlist of up to 500 tracks from 10 Spotify track URLs.
 2. 🔒 **Encrypted Credentials**: Secure storage for your Spotify Client ID and Secret using AES encryption.
 3. ⚙️ **Customizable Settings**: Easily update your Spotify credentials from the GUI.
 4. 🌟 **User-Friendly Interface**: Clean and stylish GUI to make the process smooth and fun.
@@ -88,3 +88,6 @@ Create awesome Spotify playlists effortlessly! This Python application lets you 
 
 
 ---
+
+Readme generated with chatGPT !
+
